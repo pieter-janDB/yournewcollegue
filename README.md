@@ -1,2 +1,0 @@
-# yournewcollegue
-CV Json
