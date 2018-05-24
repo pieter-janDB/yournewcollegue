@@ -1,0 +1,279 @@
+{
+    "title": "CV Pieter-Jan De Bruyne",
+    "author": "Pieter-Jan De Bruyne",
+    "nationality": "Belgian",
+    "dateOfBirth": "23/12/1990",
+    "location": "9200 Dendermonde",
+    "phone": "+0032472448338",
+    "eMail": "debruynepieterjan@gmail.com",
+    "content": {
+        "personality": [
+            "Fast learner",
+            "Creative problem solver",
+            "Open to everyone’s opinion",
+            "Love to use my brain"
+        ],
+        "keyStrengths": "I started Devine at Howest in 2014 and loved the multimedia environment right away. Devine (professional bachelor) is a blend of programming and design with the focus on the newest technologies. During this time, I worked with other students on several projects and really enjoyed being part of a team. I also discovered that while some of my team members were more design focused, I had more affinity for programming. I decided to fully focus on strengthening my coding skills so I dropped my design courses in the second year. I feel like I have a clear programming edge over some of the students that combined programming and design. I successfully finished all programming courses from the January 2016 curriculum, so I was up to date on all new web technologies when I searched for my first job. I landed my first job in Melle with The Craft where I am currently still employed. The company was founded in 2016 so when I arrived we were only 3 persons strong. Currently we have a strong team of 6 including two senior CEOs from whom I have learned a lot. At The Craft we always look for new technologies to improve our workflow and that’s what keeps things fun.",
+        "technicalSkills": {
+            "frontEndDevelopment": [
+                {
+                    "skill": "W3C validated HTML5",
+                    "rating": "Full knowledge"
+                },
+                {
+                    "skill": "CSS3 via SASS",
+                    "rating": "Full knowledge"
+                },
+                {
+                    "skill": "OO Javascript, jQuery, Modernizr",
+                    "rating": "Very good knowledge"
+                },
+                {
+                    "skill": "Ionic (Hybrid apps) / Angular",
+                    "rating": "Very good knowledge"
+                },
+                {
+                    "skill": "Node.js (authentication & sessions, websockets, videostream)",
+                    "rating": "Good knowledge"
+                }
+            ],
+            "backEndDevelopment": [
+                {
+                    "skill": "PHP, MySQL",
+                    "rating": "Very good knowledge"
+                },
+                {
+                    "skill": "Node.js, mongoDB(mongoose)",
+                    "rating": "Good knowledge"
+                }
+            ],
+            "otherProgrammingSkills": [
+                {
+                    "skill": "Processing (creative programming, API usage and new media)",
+                    "rating": "Good knowledge"
+                },
+                {
+                    "skill": "Swift app development (iOS)",
+                    "rating": "Basic knowledge"
+                },
+                {
+                    "skill": "C++ (open frameworks and android)",
+                    "rating": "Basic knowledge"
+                },
+                {
+                    "skill": "design, wireframes, storyboard, UI management, UX optimalisation",
+                    "rating": "Basic knowledge"
+                }
+            ],
+            "softwareAndTools": [
+                {
+                    "skill": "OS X & Windows",
+                    "rating": "Programming on OS X"
+                },
+                {
+                    "skill": "Photoshop, Illustrator, Affinity designer",
+                    "rating": "Knowledge of the tools"
+                },
+                {
+                    "skill": "Craft CMS",
+                    "rating": "Very good knowledge"
+                },
+                {
+                    "skill": "Sublime text, xCode, Processing, transit, sourcetree, valet, Mamp",
+                    "rating": "Very good knowledge"
+                },
+                {
+                    "skill": "API’s & WebAudioAPI, Canvas & SVG, Webfonts & CDN’s, Responsive",
+                    "rating": "Good knowledge"
+                },
+                {
+                    "skill": "Sass, Compass, Handlebars, Git, Gulp, Bower, NPM, Yeoman Yo",
+                    "rating": "Good knowledge"
+                },
+                {
+                    "skill": "MS Office",
+                    "rating": "Good knowledge"
+                }
+            ],
+            "newMedia": [
+                {
+                    "skill": "Arduino (used in final assignment Experimental Development)",
+                    "rating": "Basic knowledge",
+                    "link": "https://vimeo.com/154869662"
+                },
+                {
+                    "skill": "Makey-Makey  (used in final assignment Experimental Development)",
+                    "rating": "Basic knowledge",
+                    "link": "https://vimeo.com/128127592"
+                },
+                {
+                    "skill": "Kinect, Leap motion, Philips hue, drones",
+                    "rating": "Basic knowledge"
+                }
+            ]
+        },
+        "languages": [
+            {
+                "language": "Dutch",
+                "level": "Native"
+            },
+            {
+                "language": "English",
+                "level": "Fluent"
+            },
+            {
+                "language": "French",
+                "level": "Basic"
+            }
+        ],
+        "jobs": [
+            {
+                "company": "The Craft",
+                "function": "Web and App Developer",
+                "description": "Being the only app developer means I am single-handedly responsible for the creation and maintenance of our apps. The Company’s main focus is still websites though so the biggest portion of my job is front- and backend development: making nice and responsive websites, writing plugins for Craft CMS or making a fun web application",
+                "startDate": "06/2016",
+                "endDate": null
+            }
+        ],
+        "education": [
+            {
+                "fieldOfStudy": "Devine",
+                "school": "Howest",
+                "description": "Devine at Howest: Achieved programming credits from the professional bachelor multimedia and communication technology (see Appendix for credits)",
+                "startDate": "09/2014",
+                "endDate": "01/2016"
+            },
+            {
+                "fieldOfStudy": "Economics",
+                "school": "Hogent",
+                "description": "Accountancy + small & medium business management (see Appendix for credits)",
+                "startDate": "09/2009",
+                "endDate": "12/2013"
+            },
+            {
+                "fieldOfStudy": "General Secondary Education",
+                "school": "Hemaco",
+                "description": "Economics & Modern languages",
+                "startDate": "09/2003",
+                "endDate": "06/2009"
+            }
+        ],
+        "studentJobs": [
+            {
+                "company": "Ergo-Advice",
+                "function": "Courier",
+                "description": "Delivery of ergonomic chairs and tables to customers, including installation and advising on best practices and usage.",
+                "startDate": "2014",
+                "endDate": "2015"
+            },
+            {
+                "company": "Ideal Systems Singapore",
+                "function": "Mover",
+                "description": "During my stay in Singapore I helped to strip down and move server equipment for a local broadcast company.",
+                "startDate": "2014",
+                "endDate": "2014"
+            },
+            {
+                "company": "City of Dendermonde",
+                "function": "City Messenger",
+                "description": "Pickup and delivery of letters and other items by car. (Police & Fire department, schools, town hall, …)",
+                "startDate": "2013",
+                "endDate": "2013"
+            },
+            {
+                "company": "several Factories and construction companies",
+                "function": "Various",
+                "description": "All kinds of different Interim jobs (Electricity, gyproc, paperfactory, carrotfactory, …)",
+                "startDate": "2006",
+                "endDate": "2012"
+            }
+        ],
+        "extracurricularActivities": [
+            {
+                "activity": "Gaming",
+                "description": "Interested in games and their development.",
+                "startDate": "2000",
+                "endDate": null
+            },
+            {
+                "activity": "Traveling",
+                "description": "Travelled independently through Singapore, Malaysia, Thailand, Cambodia, Portugal, France, Hungary.",
+                "startDate": "2008",
+                "endDate": null
+            },
+            {
+                "activity": "Chiro",
+                "description": "Member and Leader of Chiro BoBo.",
+                "startDate": "2005",
+                "endDate": "2012"
+            }
+        ],
+        "appendix": {
+            "devineCredits" : [
+                "Image design",
+                "Major I",
+                "Major II",
+                "Information architecture",
+                "Front end development",
+                "Back end development",
+                "Creative programming I",
+                "Creative programming II",
+                "Creative programming III",
+                "Native development",
+                "Experimental development",
+                "Rich media development I",
+                "Rich media development II",
+                "Rich media development III",
+                "New media (NMCT credit)"
+            ],
+            "hogentCredits": [
+                "Statistics",
+                "Webdesign",
+                "ICT I",
+                "ICT II",
+                "Communication skills Dutch",
+                "French",
+                "English",
+                "Taaltraining Frans en Engels",
+                "Language training English I ",
+                "Management",
+                "Human resources management",
+                "Marketingmanagement I",
+                "Marketingmanagment II",
+                "Economics",
+                "General civil and commercial law",
+                "Social legislation",
+                "Environment and safety",
+                "Sustainable development",
+                "Accounting and VAT",
+                "Commercial and financial techniques",
+                "Pricing and costing",
+                "Start of the company",
+                "Businessproject: strategic planning ",
+                "Businessproject: implementation"
+            ],
+            "onlineProfiles": [
+                {
+                    "website" : "linkedIn",
+                    "url": "https://www.linkedin.com/in/pieter-jan-de-bruyne-66523a100"
+                },
+                {
+                    "website" : "vimeo",
+                    "url": "https://vimeo.com/user39844556"
+                },
+                {
+                    "website" : "twitter",
+                    "url": "https://twitter.com/Pieter_JanDB"
+                },
+                {
+                    "website" : "github",
+                    "url": "https://github.com/pieter-janDB"
+                },
+                {
+                    "website" : "stackoverflow",
+                    "url": "http://stackoverflow.com/users/4043114/pieter-jan-de-bruyne"
+                }
+            ]
+        }
+    }
+}
